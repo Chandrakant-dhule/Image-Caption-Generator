@@ -3,7 +3,6 @@
 This is a Deep learning project using Flickr8k dataset for Machine Learning
 
 # FAQ
-
 ## How can I run this project?
 
 1.  Download and extract [Flickr8k_Dataset.zip](https://drive.google.com/file/d/1Y37dUIocd2hjADk7FmMP-ptmzAssFQcN/view?usp=sharing) and [Flickr8k_text.zip](https://drive.google.com/file/d/179RcanAzTFNXguIboXn2ZI1hx7tWKk16/view?usp=sharing)
