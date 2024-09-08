@@ -1,6 +1,6 @@
 # Image Caption Generator
 
-This is a Deep learning project using Flickr8k dataset for CSE 475: Machine Learning
+This is a Deep learning project using Flickr8k dataset for Machine Learning
 
 # FAQ
 
@@ -17,10 +17,3 @@ This is a Deep learning project using Flickr8k dataset for CSE 475: Machine Lear
 5.  Now create a notebook in Colab by your preferred name, and copy paste from `ImageCaption.ipynb`
 
 6.  Run all the shells. Happy CODING :)
-
-## VISUAL REPRESENTATION OF MODEL
-![Visual Representation](model.png)
-
-## YOUTUBE DEMONSTRATION
-
-[![Youtube demo](Demonstration)](https://www.youtube.com/watch?v=yWAhC95n5RM)
